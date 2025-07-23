@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rt-rakesh" alt="rt-rakesh" /></a> </p>
 
-- 🔭 I’m currently working on **TOM**
+- 🔭 I’m currently working on **Jaqln Ai**
 
-- 🌱 I’m currently learning **Fast.ai**
+- 🌱 I’m currently learning **Lambda Services**
 
 - 📫 How to reach me **thuvaarakkeshr@gmail.com**
 

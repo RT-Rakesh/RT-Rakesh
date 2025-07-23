@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Jaqln Ai**
 
-- 🌱 I’m currently learning **aws**
+- 🌱 I’m currently learning **aw**
 
 - 📫 How to reach me **thuvaarakkeshr@gmail.com**
 
